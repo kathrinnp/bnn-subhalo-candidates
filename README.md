@@ -11,4 +11,4 @@ All predictions and the respective standard deviations < 1 % are set to 0. Also,
     DOI:10.3847/1538-4365/ac6751
     Arxiv:2201.11184
 
-[2] Cite our paper
+[2] A. Butter, M. Krämer, S. Manconi, K.Nippel, Searching for dark matter subhalos in the Fermi-LAT catalog with Bayesian neural networks, *to be submitted*
